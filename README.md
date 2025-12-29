@@ -20,8 +20,9 @@ The projects here serve as:
 
 | Project Name | Short Description |
 | ------------ | ----------------- |
-| [Compound Data Acquisition](https://github.com/abbadonaz/Cheminformatics/tree/main/CompoundDataAcquisition) | Data download using ChEMBL API, very basic cleaning and preprocessing |
-| [SMILES Preprocessing and Basic Descriptors](https://github.com/abbadonaz/Cheminformatics/tree/main/SMILESPreprocessing) | SMILES preprocessing and standardization, basic descriptor calculation, data visualization |
+| [Compound Data Acquisition](https://github.com/abbadonaz/chminfo-tutorials/tree/main/CompoundDataAcquisition) | Data download using ChEMBL API, very basic cleaning and preprocessing |
+| [SMILES Preprocessing and Basic Descriptors](https://github.com/abbadonaz/chminfo-tutorials/tree/main/SMILESPreprocessing) | SMILES preprocessing and standardization, basic descriptor calculation, data visualization |
+| [Compound Clustering using Taylor-Butina, BIT-Birch, HDBSCAN](https://github.com/abbadonaz/cheminfo-tutorials/tree/main/CompoundClustering) | Brief comparison of unsupervised learning algorithms |
 
 ## 📚 Selected Learning Resources
 
